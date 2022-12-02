@@ -5,3 +5,20 @@
   text-decoration: none;
   list-style: none;
 }
+
+.page {
+  width: 1000px;
+  margin: 65px auto 0;
+}
+
+.page header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 58px;
+}
+
+.page nav ul {
+  display: flex;
+  gap: 48px;
+}
